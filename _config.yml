@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Zhiqiang (Walkie) Que"
   pronouns         : # example: "she/her"  
-  bio              : "AP at University of Bristol"
+  #bio              : "AP at University of Bristol"
   location         : "London"
   employer         : "University of Bristol"
   uri              : # URL
