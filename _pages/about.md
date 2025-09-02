@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in the Custom Computing Research Group under the supervision of [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the intersection of machine learning (ML), domain-specific hardware, and design automation.
+I will be a Lecturer (equivalent to assistant professor in the US) within School of Electrical, Electronic and Mechanical Engineering (EEME) at the University of Bristol. I am current a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the intersection of machine learning (ML), domain-specific hardware, and design automation.
 
 With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems.
 
@@ -15,7 +15,12 @@ I obtained my PhD from Imperial College London under the supervision of Prof. Wa
 
 My research centers on domain-specific hardware architectures and design automation for AI/ML workloads, leading to numerous high-impact publications in top journals such as TECS, TVLSI, TRETS, TPDS, and TCAD, as well as premier conferences including DAC, ICCAD, ASP-DAC, FCCM, FPL, ASAP, and FPT. I have received Best Paper Award Nominations at leading conferences, including FCCM’20, ASAP’19, FPT’19, and FPT’18, and have authored 48 peer-reviewed publications (12 journal articles and 36 conference papers) in AI/ML hardware architecture and automation.
 
-I also lead collaborative research projects, including the LL-GNN project with CERN, ETH Zurich, UCSD, and AMD, and the RENOWN project, which develops a Neural Processing Unit (NPU) in collaboration with Tokyo Tech and Intel, advancing interdisciplinary research in ML hardware and system optimization. In addition, I actively contribute to the research community as a Technical Program Committee (TPC) member for leading conferences, including DAC, DATE, and FPT.
+We are currently __looking for PhD students to for the 2026 entry__. School of EEME offer multiple PhD scholarships available at the school page and Centers for Doctoral Training. The China Scholarship Council (CSC) and the University of Bristol jointly fund multiple (60) scholarships. Check the details about the scholarships [here](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/). If you are interested, please send an e-mail to Dr Que (zque [DOT] bristol [AT] gmail [DOT] com) with the title [Prospective PhD] including (There will be limited positions, for maximizing your chances please apply as soon as possible.):
+
+* a copy of your CV and explanation for,
+* why you want to work with my group specifically,
+* what topics you would be keen to explore and how would it fit into what we are working on.
+
 
 Some News
 ======
