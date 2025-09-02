@@ -29,7 +29,9 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
-* Sept. 2025 - Invited to serve on the [DATE 2026](https://www.date-conference.com) TPC, welcome to submit!
+* Aug. 2025 - Will join the University of Bristol in January 2026 as a Lecturer in School of EEME.
+
+* Jul. 2025 - Invited to serve on the [DATE 2026](https://www.date-conference.com) TPC, welcome to submit!
 
 * Mar. 2025 - Accepted by HEART 2025: __*Trustworthy Deep Learning Acceleration with Customizable Design Flow Automation*__   
 [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3728179.3728198)
