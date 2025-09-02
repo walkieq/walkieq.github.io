@@ -11,12 +11,16 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Vacancies"
+    url: /vacancies/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         
