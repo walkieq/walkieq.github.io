@@ -15,12 +15,17 @@ I obtained my PhD from Imperial College London under the supervision of Prof. Wa
 
 My research centers on domain-specific hardware architectures and design automation for AI/ML workloads, leading to numerous high-impact publications in top journals such as TECS, TVLSI, TRETS, TPDS, and TCAD, as well as premier conferences including DAC, ICCAD, ASP-DAC, FCCM, FPL, ASAP, and FPT. I have received Best Paper Award Nominations at leading conferences, including FCCM’20, ASAP’19, FPT’19, and FPT’18, and have authored 48 peer-reviewed publications (12 journal articles and 36 conference papers) in AI/ML hardware architecture and automation.
 
-We are currently __looking for PhD students to for the 2026 entry__. School of EEME offer multiple PhD scholarships available at the school page and Centers for Doctoral Training. The China Scholarship Council (CSC) and the University of Bristol jointly fund multiple (60) scholarships. Check the details about the scholarships [here](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/). If you are interested, please send an e-mail to Dr Que (zque [DOT] bristol [AT] gmail [DOT] com) with the title [Prospective PhD] including (There will be limited positions, for maximizing your chances please apply as soon as possible.):
+PhD opportunities (2026 entry)
+======
+We are recruiting PhD students for 2026 entry. The School of Electrical, Electronic and Mechanical Engineering (EEME) offers multiple PhD scholarships listed on the School website and via Centres for Doctoral Training (CDTs). The University of Bristol and the China Scholarship Council (CSC) also jointly fund a number (60) of scholarships with details [here](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/). 
 
-* a copy of your CV and explanation for,
-* why you want to work with my group specifically,
-* what topics you would be keen to explore and how would it fit into what we are working on.
+If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] com) with the title [Prospective PhD], and include:
 
+* your CV; 
+* a brief personal statement explaining why you want to join my group; 
+* a short research statement outlining the topics you would like to explore and how they align with our work. 
+
+Positions are limited, so early applications are encouraged.
 
 Some News
 ======
