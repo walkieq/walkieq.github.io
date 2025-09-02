@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am current a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the intersection of machine learning (ML), domain-specific hardware, and design automation.
+I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the intersection of machine learning (ML), domain-specific hardware, and design automation.
 
 With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems.
 
