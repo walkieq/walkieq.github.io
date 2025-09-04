@@ -22,7 +22,7 @@ repository               : "walkieq/walkieq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "que.jpg"
+  avatar           : "walkie.jpg"
   name             : "Dr. Zhiqiang (Walkie) Que"
   pronouns         : # example: "she/her"  
   bio              : "AP at University of Bristol from Jan 2026"
