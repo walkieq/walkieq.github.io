@@ -22,14 +22,16 @@ We are recruiting PhD students for 2026 entry. The School of Electrical, Electro
 If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] com) with the title [Prospective PhD], and include:
 
 * your CV; 
-* a brief personal statement explaining why you want to join my group; 
-* a short research statement outlining the topics you would like to explore and how they align with our work. 
+* why you want to join my group; 
+* outline the topics you would like to explore and how they align with our work. 
 
 Positions are limited, so early applications are encouraged.
 
 Some News
 ======
-* Aug. 2025 - Will join the University of Bristol in January 2026 as a Lecturer in School of EEME.
+* Aug. 2025 - Invited paper by ASICON: __*Optimizing LLM inference for FPGAs*__. Optimizing LLMs on Intel FPGAs using oneAPI. 
+
+* Aug. 2025 - Will join the University of Bristol in January 2026 as a **Lecturer in School of EEME**.
 
 * Jul. 2025 - Invited to serve on the [DATE 2026](https://www.date-conference.com) TPC, welcome to submit!
 
