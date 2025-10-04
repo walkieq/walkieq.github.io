@@ -29,6 +29,8 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
+* Oct. 2025 - Invited to serve on the [DAC 2026](https://www.dac.com) TPC, welcome to submit!
+
 * Aug. 2025 - Invited paper by ASICON: __*Optimizing LLM inference for FPGAs*__. Optimizing LLMs on Intel FPGAs using oneAPI. 
 
 * Aug. 2025 - Will join the University of Bristol in January 2026 as a **Lecturer in School of EEME**.
