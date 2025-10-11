@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the intersection of machine learning (ML), domain-specific hardware, and design automation.
+I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the ML/AI hardware, and design automation. 
 
-With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems.
-
-I obtained my PhD from Imperial College London under the supervision of Prof. Wayne Luk. I received my B.S. in Microelectronics and M.S. in Computer Science from Shanghai Jiao Tong University (SJTU) in 2008 and 2011 respectively.
+With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems. I obtained my PhD from Imperial College London under the supervision of Prof. Wayne Luk. I received my B.S. in Microelectronics and M.S. in Computer Science from Shanghai Jiao Tong University (SJTU) in 2008 and 2011 respectively.
 
 My research centers on domain-specific hardware architectures and design automation for AI/ML workloads, leading to numerous high-impact publications in top journals such as TECS, TVLSI, TRETS, TPDS, and TCAD, as well as premier conferences including DAC, ICCAD, ASP-DAC, FCCM, FPL, ASAP, and FPT. I have received Best Paper Award Nominations at leading conferences, including FCCM’20, ASAP’19, FPT’19, and FPT’18, and have authored 48 peer-reviewed publications (12 journal articles and 36 conference papers) in AI/ML hardware architecture and automation.
 
@@ -29,6 +27,10 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
+* Oct. 2025 - Accepted by FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__ 
+[\[PDF-arXiv\]](https://arxiv.org/abs/2508.15468)
+[\[GitHub\]](https://github.com/calad0i/JEDI-linear)
+
 * Aug. 2025 - Invited paper by ASICON: __*Optimizing LLM inference for FPGAs*__. Optimizing LLMs on Intel FPGAs using oneAPI. 
 
 * Aug. 2025 - Will join the University of Bristol in January 2026 as a **Lecturer in School of EEME**.
