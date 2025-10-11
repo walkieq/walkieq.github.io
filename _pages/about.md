@@ -27,7 +27,6 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
-<<<<<<< HEAD
 * Oct. 2025 - Accepted by FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__ 
 [\[PDF-arXiv\]](https://arxiv.org/abs/2508.15468)
 [\[GitHub\]](https://github.com/calad0i/JEDI-linear)
