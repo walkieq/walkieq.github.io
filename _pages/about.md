@@ -27,9 +27,15 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
+* Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization and produces HLS and RTL designs.   
+[\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
+[\[GitHub\]](https://github.com/calad0i/da4ml)
+
+
 * Oct. 2025 - Accepted by FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__    
 [\[PDF-arXiv\]](https://arxiv.org/abs/2508.15468)
 [\[GitHub\]](https://github.com/calad0i/JEDI-linear)
+
 
 * Oct. 2025 - Invited to serve on the [DAC 2026](https://www.dac.com) TPC, welcome to submit!
 
