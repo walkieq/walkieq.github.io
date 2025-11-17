@@ -28,6 +28,7 @@ Positions are limited, so early applications are encouraged.
 Some News
 ======
 * Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization and produces HLS and RTL designs.   
+[\[ACM TRETS\]](https://doi.org/10.1145/3777387)
 [\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
 [\[GitHub\]](https://github.com/calad0i/da4ml)
 
