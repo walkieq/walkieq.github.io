@@ -33,7 +33,7 @@ Some News
 [\[GitHub\]](https://github.com/calad0i/da4ml)
 
 
-* Oct. 2025 - Accepted by FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__    
+* Oct. 2025 - Accepted by FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__, Best Paper Candidate       
 [\[PDF\]](https://arxiv.org/abs/2508.15468)
 [\[PPT\]](https://indico.cern.ch/event/1496673/contributions/6637922/attachments/3128941/5550391/jedi-linear.pdf)
 [\[GitHub\]](https://github.com/calad0i/JEDI-linear)
