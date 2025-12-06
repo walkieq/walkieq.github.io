@@ -27,17 +27,16 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
-* Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization and produces HLS and RTL-based DNN designs.   
-[\[ACM TRETS\]](https://doi.org/10.1145/3777387)
-[\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
-[\[GitHub\]](https://github.com/calad0i/da4ml)
-
-
-* Oct. 2025 - __Best paper Candidate__ in FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__. Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
+* Dec. 2025 - __Best paper__ in FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__. Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
 [\[PDF\]](https://arxiv.org/abs/2508.15468)
 [\[PPT\]](https://indico.cern.ch/event/1496673/contributions/6637922/attachments/3128941/5550391/jedi-linear.pdf)
 [\[GitHub\]](https://github.com/calad0i/JEDI-linear)
 
+
+* Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization and produces HLS and RTL-based DNN designs.   
+[\[ACM TRETS\]](https://doi.org/10.1145/3777387)
+[\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
+[\[GitHub\]](https://github.com/calad0i/da4ml)
 
 * Oct. 2025 - Invited to serve on the [DAC 2026](https://www.dac.com) TPC, welcome to submit!
 
