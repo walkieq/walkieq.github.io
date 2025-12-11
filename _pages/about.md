@@ -29,7 +29,7 @@ Some News
 ======
 * Dec. 2025 - __Best paper__ in FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__. Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
 [\[PDF\]](https://arxiv.org/abs/2508.15468)
-[\[PPT\]](https://indico.cern.ch/event/1496673/contributions/6637922/attachments/3128941/5550391/jedi-linear.pdf)
+[\[PPT\]](files/fpt25gnn.pdf)
 [\[GitHub\]](https://github.com/calad0i/JEDI-linear)
 
 * Dec. 2025 - Invited to serve on the [FCCM 2026](https://www.fccm.org) TPC, welcome to submit!
