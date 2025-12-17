@@ -27,6 +27,11 @@ Positions are limited, so early applications are encouraged.
 
 Some News
 ======
+* Dec. 2025 - Accepted by TRETS'25: __*hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware*__ as part of the Special Issue on Open Source Tools.  
+[\[PDF\]](https://arxiv.org/abs/2512.01463)
+[\[GitHub\]](https://github.com/fastmachinelearning/hls4ml)
+[\[Tutorial\]](https://github.com/fastmachinelearning/hls4ml-tutorial)
+
 * Dec. 2025 - __Best paper__ in FPT 2025: __*JEDI-linear: Fast and Efficient Graph Neural Networks for Jet Tagging on FPGAs*__. Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
 [\[PDF\]](https://arxiv.org/abs/2508.15468)
 [\[PPT\]](https://walkieq.github.io/files/fpt25gnn.pdf)
