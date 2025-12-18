@@ -32,7 +32,7 @@ Some News
 ======
 * Dec. 2025 - Accepted by FPGA'26: __*HGQ: High Granularity Quantization for Real-time Neural Networks on FPGAs*__.   
 
-* Dec. 2025 - Accepted by TRETS'25: __*hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware*__ as part of the Special Issue on Open Source Tools.  
+* Dec. 2025 - Accepted by TRETS'26: __*hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware*__ as part of the Special Issue on Open Source Tools.  
 [\[PDF\]](https://arxiv.org/abs/2512.01463)
 [\[GitHub\]](https://github.com/fastmachinelearning/hls4ml)
 [\[Tutorial\]](https://github.com/fastmachinelearning/hls4ml-tutorial)
@@ -44,7 +44,7 @@ Some News
 
 * Dec. 2025 - Invited to serve on the [FCCM 2026](https://www.fccm.org) TPC, welcome to submit!
 
-* Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization, and produces HLS and RTL-based DNN designs.   
+* Nov. 2025 - TRETS'26: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization, and produces HLS and RTL-based DNN designs.   
 [\[ACM TRETS\]](https://doi.org/10.1145/3777387)
 [\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
 [\[GitHub\]](https://github.com/calad0i/da4ml)
