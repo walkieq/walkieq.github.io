@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the ML/AI hardware, and design automation. 
+I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the ML/AI hardware and systems, and design automation. 
 
-With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems. I obtained my PhD from Imperial College London under the supervision of Prof. Wayne Luk. I received my B.S. in Microelectronics and M.S. in Computer Science from Shanghai Jiao Tong University (SJTU) in 2008 and 2011 respectively.
+With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems. 
 
-My research centers on domain-specific hardware architectures and design automation for AI/ML workloads, leading to numerous high-impact publications in top journals such as TECS, TVLSI, TRETS, TPDS, and TCAD, as well as premier conferences including DAC, ICCAD, ASP-DAC, FCCM, FPL, ASAP, and FPT. I have received Best Paper Award Nominations at leading conferences, including FCCM’20, ASAP’19, FPT’19, and FPT’18, and have authored 48 peer-reviewed publications (12 journal articles and 36 conference papers) in AI/ML hardware architecture and automation.
+My research centers on 
+* Efficient AI/ML hardware and systems;
+* Efficient AI/ML algorithm;
+* Domain-specific hardware architecture; 
+* Design automation.  
+
 
 PhD opportunities (2026 entry)
 ======
@@ -23,10 +28,10 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 * why you want to join my group; 
 * outline the topics you would like to explore and how they align with our work. 
 
-Positions are limited, so early applications are encouraged.
-
 Some News
 ======
+* Dec. 2025 - Accepted by FPGA'26: __*HGQ: High Granularity Quantization for Real-time Neural Networks on FPGAs*__.   
+
 * Dec. 2025 - Accepted by TRETS'25: __*hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware*__ as part of the Special Issue on Open Source Tools.  
 [\[PDF\]](https://arxiv.org/abs/2512.01463)
 [\[GitHub\]](https://github.com/fastmachinelearning/hls4ml)
