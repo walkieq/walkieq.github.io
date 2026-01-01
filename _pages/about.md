@@ -31,6 +31,9 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 Some News
 ======
 * Dec. 2025 - Accepted by FPGA'26: __*HGQ: High Granularity Quantization for Real-time Neural Networks on FPGAs*__.   
+[\[PDF\]](https://arxiv.org/abs/2405.00645)
+[\[GitHub\]](https://github.com/calad0i/HGQ2)
+[\[Tutorial\]](https://indico.cern.ch/event/1496673/contributions/6661253/attachments/3126101/5546015/hgq2-da4ml-tutorial-fastml25.pdf)
 
 * Dec. 2025 - Accepted by TRETS'26: __*hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware*__ as part of the Special Issue on Open Source Tools.  
 [\[PDF\]](https://arxiv.org/abs/2512.01463)
@@ -48,6 +51,7 @@ Some News
 [\[ACM TRETS\]](https://doi.org/10.1145/3777387)
 [\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
 [\[GitHub\]](https://github.com/calad0i/da4ml)
+[\[Tutorial\]](https://indico.cern.ch/event/1496673/contributions/6661253/attachments/3126101/5546015/hgq2-da4ml-tutorial-fastml25.pdf)
 
 * Oct. 2025 - Invited to serve on the [DAC 2026](https://www.dac.com) TPC, welcome to submit!
 
