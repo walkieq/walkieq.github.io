@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiqiang (Walkie) Que"
+title: "Zhiqiang Que"
 author_profile: true
 redirect_from: 
   - /about/

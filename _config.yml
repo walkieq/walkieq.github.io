@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhiqiang (Walkie) Que"
+title                    : "Zhiqiang Que"
 title_separator          : "-"
-name                     : &name "Zhiqiang (Walkie) Que"
+name                     : &name "Zhiqiang Que"
 description              : &description "personal description"
 url                      : https://walkieq.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "walkieq/walkieq.github.io"
 author:
   # Biographic information
   avatar           : "walkie.jpg"
-  name             : "Dr. Zhiqiang (Walkie) Que"
+  name             : "Dr. Zhiqiang Que"
   pronouns         : # example: "she/her"  
   bio              : "AP at University of Bristol from Jan 2026"
   location         : "London"
