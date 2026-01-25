@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I will join the University of Bristol in January 2026 as a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME). I am currently a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), focusing on the ML/AI hardware and systems, and design automation. 
+I am a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME) at the University of Bristol. My work focuses on efficient ML/AI algorithms, hardware and systems, and design automation.
 
-With over 12 years of experience spanning academia and industry, I previously worked as a Senior Engineer at Marvell Semiconductor, specializing in CPU microarchitecture design and verification, and later an FPGA Specialist at China Financial Futures Exchange, where I developed low-latency FinTech computing systems. 
+With over 12 years of experience across academia and industry, I recently served as a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Prior to that, I was an FPGA Specialist at China Financial Futures Exchange, where I developed ultra-low-latency FinTech computing systems. Earlier in my career, I worked as a Senior Engineer at Marvell Semiconductor, specialising in CPU microarchitecture design and verification.
 
 My research centers on 
-* Efficient AI/ML hardware and systems;
-* Efficient AI/ML algorithm;
+* Efficient ML/AI hardware and systems;
+* Efficient ML/AI algorithm;
 * Domain-specific hardware architecture; 
-* Design automation.  
+* Design automation. 
 
 
 PhD opportunities (2026 entry)
@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Jan. 2026 - Accepted by IEEE Access: __*Memory-Efficient and Trustworthy Neural Networks via Random Seed-Based Design*__, in collaboration with the [ArtIC](http://www.artic.iir.titech.ac.jp/wp/en/) team at the Institute of Science Tokyo.  
+
 * Dec. 2025 - Accepted by FPGA'26: __*HGQ: High Granularity Quantization for Real-time Neural Networks on FPGAs*__.   
 [\[PDF\]](https://arxiv.org/abs/2405.00645)
 [\[GitHub\]](https://github.com/calad0i/HGQ2)
