@@ -30,6 +30,11 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Jan. 2026 - Invited to serve as Publication Chair and TPC Member for [ASAP 2026](https://2026.asap-conf.org); submissions welcome.
+
+* Jan. 2026 - Accepted by TRETS'26: __*MetaML-Pro: Cross-Stage Design Flow Automation for Efficient Deep Learning Acceleration*__. This paper presents a unified framework for codifying and automating optimization strategies to efficiently deploy DNNs on resource-constrained hardware.   
+[\[PDF\]](https://arxiv.org/abs/2502.05850v3)
+
 * Jan. 2026 - Accepted by IEEE Access: __*Memory-Efficient and Trustworthy Neural Networks via Random Seed-Based Design*__, in collaboration with the [ArtIC](http://www.artic.iir.titech.ac.jp/wp/en/) team at the Institute of Science Tokyo.  
 
 * Dec. 2025 - Accepted by FPGA'26: __*HGQ: High Granularity Quantization for Real-time Neural Networks on FPGAs*__.   
@@ -49,7 +54,7 @@ Some News
 
 * Dec. 2025 - Invited to serve on the [FCCM 2026](https://www.fccm.org) TPC, welcome to submit!
 
-* Nov. 2025 - TRETS'26: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization, and produces HLS and RTL-based DNN designs.   
+* Nov. 2025 - TRETS'25: __*da4ml: Distributed Arithmetic for Real-time Neural Networks on FPGAs*__. This work introduces da4ml which performs DA optimization, and produces HLS and RTL-based DNN designs.   
 [\[ACM TRETS\]](https://doi.org/10.1145/3777387)
 [\[PDF-arXiv\]](https://arxiv.org/abs/2507.04535)
 [\[GitHub\]](https://github.com/calad0i/da4ml)
