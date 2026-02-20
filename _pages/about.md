@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Feb. 2026 - Invited to serve on the [FPL 2026](https://2026.fpl.org) TPC, welcome to submit!
+
 * Jan. 2026 - Invited to serve as Publication Chair and TPC Member for [ASAP 2026](https://2026.asap-conf.org); submissions welcome.
 
 * Jan. 2026 - Accepted by TRETS'26: __*MetaML-Pro: Cross-Stage Design Flow Automation for Efficient Deep Learning Acceleration*__. This paper presents a unified framework for codifying and automating optimization strategies to efficiently deploy DNNs on resource-constrained hardware.   
