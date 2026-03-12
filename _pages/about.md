@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Dec. 2025 - Accepted by FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__.   
+
 * Feb. 2026 - Invited to serve on the [FPL 2026](https://2026.fpl.org) TPC, welcome to submit!
 
 * Jan. 2026 - Invited to serve as Publication Chair and TPC Member for [ASAP 2026](https://2026.asap-conf.org); submissions welcome.
