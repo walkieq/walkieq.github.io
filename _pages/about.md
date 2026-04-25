@@ -30,7 +30,11 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
-* Mar. 2026 - Accepted by FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__.   
+* April. 2026 - __Best paper candidate__ in FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__. 
+Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
+[\[GitHub\]](https://github.com/calad0i/HGQ-LUT-AE)
+
+* April. 2026 - Invited to serve on the [FPT 2026](https://fpt2026.uark.edu) TPC, welcome to submit!
 
 * Feb. 2026 - Invited to serve on the [FPL 2026](https://2026.fpl.org) TPC, welcome to submit!
 
