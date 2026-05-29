@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME) at the University of Bristol. My work focuses on efficient ML/AI algorithms, hardware and systems, as well as design automation.
 
-With over 12 years of experience across academia and industry, I recently served as a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Prior to that, I was an FPGA Specialist at China Financial Futures Exchange, where I developed ultra-low-latency FinTech computing systems. Earlier in my career, I worked as a Senior Engineer at Marvell Semiconductor, specialising in CPU microarchitecture design and verification.
+With over 12 years of experience across academia and industry, I recently served as a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Prior to that, I was an FPGA Specialist at China Financial Futures Exchange, where I developed ultra-low-latency FinTech computing systems. Earlier in my career, I worked as a Senior Engineer at Marvell Semiconductor, specialising in CPU microarchitecture design and verification. I received PhD from Imperial College London, and both MSc and BSc degrees from Shanghai Jiao Tong University.
 
 My research centers on 
 * Efficient ML/AI hardware and systems;
