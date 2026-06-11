@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME) at the University of Bristol. My work focuses on efficient ML/AI algorithms, hardware and systems, as well as design automation.
+I am a Lecturer (Assistant Professor, US equivalent) in the School of Electrical, Electronic and Mechanical Engineering (EEME) at the University of Bristol, leading the Efficient Computing and Systems(ECS) Research Lab. My work focuses on efficient ML/AI algorithms, hardware and systems, as well as design automation.
 
 With over 12 years of experience across academia and industry, I recently served as a Research Associate in the Custom Computing Research Group working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Prior to that, I was an FPGA Specialist at China Financial Futures Exchange, where I developed ultra-low-latency FinTech computing systems. Earlier in my career, I worked as a Senior Engineer at Marvell Semiconductor, specialising in CPU microarchitecture design and verification. I received PhD from Imperial College London, and both MSc and BSc degrees from Shanghai Jiao Tong University.
 
@@ -18,9 +18,9 @@ My research centers on
 * Design automation. 
 
 
-PhD opportunities (2026 entry)
+PhD opportunities (2027 entry) and Internship
 ======
-We are recruiting PhD students for 2026 entry. The School of Electrical, Electronic and Mechanical Engineering (EEME) offers multiple PhD scholarships listed on the School website and via Centres for Doctoral Training (CDTs). The University of Bristol and the China Scholarship Council (CSC) also jointly fund a number (60) of scholarships with details [here](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/). 
+We are recruiting PhD students for 2027 entry. The School of Electrical, Electronic and Mechanical Engineering (EEME) offers multiple PhD scholarships listed on the School website and via Centres for Doctoral Training (CDTs). The University of Bristol and the China Scholarship Council (CSC) also jointly fund a number of scholarships with details [here](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/). 
 
 If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] com) with the title [Prospective PhD], and include:
 
@@ -30,6 +30,9 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* June. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
+
+
 * April. 2026 - __Best paper__ in FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__. 
 Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
 [\[PDF\]](https://arxiv.org/pdf/2604.22293) 
