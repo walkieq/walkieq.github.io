@@ -30,15 +30,16 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
-* June. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
+* Jul. 2026 - Accepted by MICRO'26: __*HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning*__.  
 
+* Jun. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
 
-* April. 2026 - __Best paper__ in FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__. 
+* Apr. 2026 - __Best paper__ in FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__. 
 Pass Artifact Evaluation with __3 badges__: Artifacts Available, Evaluated, and Results Replicated.   
 [\[PDF\]](https://arxiv.org/pdf/2604.22293) 
 [\[GitHub\]](https://github.com/calad0i/HGQ-LUT-AE)
 
-* April. 2026 - Invited to serve on the [FPT 2026](https://fpt2026.uark.edu) TPC, welcome to submit!
+* Apr. 2026 - Invited to serve on the [FPT 2026](https://fpt2026.uark.edu) TPC, welcome to submit!
 
 * Feb. 2026 - Invited to serve on the [FPL 2026](https://2026.fpl.org) TPC, welcome to submit!
 
