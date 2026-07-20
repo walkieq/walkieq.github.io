@@ -30,8 +30,6 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
-* Jul. 2026 - Accepted by MICRO'26: __*HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning*__.  
-
 * Jun. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
 
 * Apr. 2026 - __Best paper__ in FCCM'26: __*HGQ-LUT: Fast LUT-Aware Training and Efficient Architectures for DNN Inference*__. 
