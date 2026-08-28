@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Aug. 2026 - Conditionally accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
+
 * Aug. 2026 - Accepted by ICCD'26: __*Alkaid: A Compiler Framework for Ultra-Low-Latency Kernels on Hardware*__.  
 [\[GitHub\]](https://github.com/calad0i/alkaid)
 
