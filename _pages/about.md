@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Aug. 2026 - Invited to serve on the [FPGA 2027](https://www.isfpga.org) TPC, welcome to submit!
+  
 * Aug. 2026 - Conditionally accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
 
 * Aug. 2026 - Accepted by ICCD'26: __*Alkaid: A Compiler Framework for Ultra-Low-Latency Kernels on Hardware*__.  
@@ -42,7 +44,8 @@ Some News
 
 * Jul. 2026 - Accepted by MICRO'26: __*HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning*__.  
 * Jun. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
-[\[PDF\]](https://arxiv.org/pdf/2608.12140) 
+[\[PDF\]](https://arxiv.org/pdf/2608.12140)
+[\[PPT\]](https://walkieq.github.io/files/asap26fqtree.pdf)
 [\[GitHub\]](https://github.com/ecs-bristol/FQTree)
 
 
