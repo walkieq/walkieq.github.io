@@ -32,7 +32,7 @@ Some News
 ======
 * Aug. 2026 - Invited to serve on the [FPGA 2027](https://www.isfpga.org) TPC, welcome to submit!
   
-* Aug. 2026 - Conditionally accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
+* Aug. 2026 - Accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
 
 * Aug. 2026 - Accepted by ICCD'26: __*Alkaid: A Compiler Framework for Ultra-Low-Latency Kernels on Hardware*__.  
 [\[GitHub\]](https://github.com/calad0i/alkaid)
