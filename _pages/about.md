@@ -30,6 +30,8 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Oct. 2026 - Invited to serve on the [DAC 2027](https://dac.com/2027) TPC, welcome to submit!
+
 * Aug. 2026 - Invited to serve on the [FPGA 2027](https://www.isfpga.org) TPC, welcome to submit!
   
 * Aug. 2026 - Accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
