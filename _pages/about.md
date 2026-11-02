@@ -30,13 +30,23 @@ If you are interested, please email Dr Que (zque [DOT] bristol [AT] gmail [DOT] 
 
 Some News
 ======
+* Nov. 2026 - Invited to serve on the [FCCM 2027](https://www.fccm.org) TPC, welcome to submit!
+
+* Oct. 2026 - Accepted by CSCloud'26: __*TrustQAT: Towards Trustworthy Quantization-Aware Training for Neural Networks*__.   
+
+* Oct. 2026 - Two papers accepted by ML4PS workshop:  
+  __*LEAF: LUT-aware Efficient Attention on FPGAs*__. [\[PDF\]](https://arxiv.org/pdf/2610.27078)     
+  __*SCRAMJet: A Ultra Low Latency JetClass-Scale Transformer for the HL-LHC Level-1 Trigger*__. 
+    
 * Oct. 2026 - Invited to serve on the [DAC 2027](https://dac.com/2027) TPC, welcome to submit!
 
 * Aug. 2026 - Invited to serve on the [FPGA 2027](https://www.isfpga.org) TPC, welcome to submit!
   
 * Aug. 2026 - Accepted by EuroSys'27: __*SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving*__.  
+[\[PDF\]](https://arxiv.org/pdf/2606.11244)     
 
-* Aug. 2026 - Accepted by ICCD'26: __*Alkaid: A Compiler Framework for Ultra-Low-Latency Kernels on Hardware*__.  
+* Aug. 2026 - Accepted by ICCD'26: __*Alkaid: A Compiler Framework for Ultra-Low-Latency Kernels on Hardware*__.   
+[\[PDF\]](https://arxiv.org/pdf/2610.04808)
 [\[GitHub\]](https://github.com/calad0i/alkaid)
 
 * Aug. 2026 - Accepted by FPT'26: __*Accelerating Complex-valued Uncertainty Estimation via Sparsity
@@ -44,7 +54,9 @@ Some News
 
 * Aug. 2026 - Invited to serve on the [DATE 2026](https://www.date-conference.com) TPC, Track D8 Architectural and microarchitectural design, welcome to submit!  
 
-* Jul. 2026 - Accepted by MICRO'26: __*HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning*__.  
+* Jul. 2026 - Accepted by MICRO'26: __*HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning*__.   
+[\[PDF\]](https://arxiv.org/pdf/2609.28717)  
+
 * Jun. 2026 - Accepted by ASAP'26: __*FQTree: Fine-Grained Quantization and Hardware Generation of Boosted Decision Trees*__.  
 [\[PDF\]](https://arxiv.org/pdf/2608.12140)
 [\[PPT\]](https://walkieq.github.io/files/asap26fqtree.pdf)
