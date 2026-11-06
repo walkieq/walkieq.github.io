@@ -36,7 +36,7 @@ Some News
 
 * Oct. 2026 - Two papers accepted by ML4PS workshop:  
   __*LEAF: LUT-aware Efficient Attention on FPGAs*__. [\[PDF\]](https://arxiv.org/pdf/2610.27078)     
-  __*SCRAMJet: A Ultra Low Latency JetClass-Scale Transformer for the HL-LHC Level-1 Trigger*__. 
+  __*SCRAMJet: A Ultra Low Latency JetClass-Scale Transformer for the HL-LHC Level-1 Trigger*__. [\[PDF\]](https://arxiv.org/abs/2611.00086) 
     
 * Oct. 2026 - Invited to serve on the [DAC 2027](https://dac.com/2027) TPC, welcome to submit!
 
